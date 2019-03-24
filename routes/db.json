@@ -1,0 +1,100 @@
+{
+    "Processos": [
+      {
+        "id": 1,
+        "titulo": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL",
+        "numero": "0800003-14.2010.4.05.8400",
+        "partesRe":[
+            {
+            "nome": "Joao Paulo Silva"
+            }
+        ],
+
+        "PartesAutoras":[
+            {
+            "nome": "João Pedro Costa"
+            }
+        ]
+      },
+      {
+        "id": 2,
+        "titulo": "PROCEDIMENTO COMUM",
+        "numero": "0814546-41.2018.4.05.8400",
+        "partesRe":[
+            {
+            "nome": "União Federal"
+            }
+        ],
+
+        "PartesAutoras":[
+            {
+            "nome": "Maria do Socorro"
+            }
+        ]
+      },
+      {
+        "id": 3,
+        "titulo": "INQUÉRITO POLICIAL",
+        "numero": "0814190-46.2018.4.05.8400",
+        "partesRe":[
+            {
+            "nome": "Pedro José Costa"
+            }
+        ],
+
+        "PartesAutoras":[
+            {
+            "nome": "Delepat"
+            }
+        ]
+      },
+      {
+        "id": 4,
+        "titulo": "OUTROS PROCEDIMENTOS DE JURISDIÇÃO VOLUNTÁRIA",
+        "numero": "0812749-30.2018.4.05.8400",
+        "partesRe":[
+            {
+            "nome": "Caixa Econômica Federal"
+            }
+        ],
+
+        "PartesAutoras":[
+            {
+            "nome": "João Costa Filho"
+            }
+        ]
+      },
+      {
+        "id": 5,
+        "titulo": "EMBARGOS À EXECUÇÃO",
+        "numero": "0803711-67.2013.4.05.8400",
+        "partesRe":[
+            {
+            "nome": "Fazenda Nacional"
+            }
+        ],
+
+        "PartesAutoras":[
+            {
+            "nome": "João Costa Filho"
+            }
+        ]
+      },
+      {
+        "id": 6,
+        "titulo": "EMBARGOS À EXECUÇÃO",
+        "numero": "0803712-67.2013.4.05.8400",
+        "partesRe":[
+            {
+            "nome": "Fazenda Nacional"
+            }
+        ],
+
+        "PartesAutoras":[
+            {
+            "nome": "João Costa Filho"
+            }
+        ]
+      }
+    ]
+  }
